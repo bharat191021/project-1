@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.9a704a95.css",
+    "main.js": "/react-gh-pages/static/js/main.fe9170ca.js",
+    "static/js/787.ec704a7a.chunk.js": "/react-gh-pages/static/js/787.ec704a7a.chunk.js",
+    "static/media/hero2.jpg": "/react-gh-pages/static/media/hero2.d3a8fe2cc2e81adc987b.jpg",
+    "static/media/portfolioimg4.jpg": "/react-gh-pages/static/media/portfolioimg4.d3a8fe2cc2e81adc987b.jpg",
+    "static/media/portfolioimg1.jpg": "/react-gh-pages/static/media/portfolioimg1.9cc4c237bb324144695a.jpg",
+    "static/media/portfolioimg2.jpg": "/react-gh-pages/static/media/portfolioimg2.a1408080e720ac49a655.jpg",
+    "static/media/portfolioimg3.jpg": "/react-gh-pages/static/media/portfolioimg3.cd75746f407c3d3ce8cd.jpg",
+    "static/media/winerydry.jpg": "/react-gh-pages/static/media/winerydry.a40417c87707bce6c73b.jpg",
+    "static/media/usa.jpg": "/react-gh-pages/static/media/usa.36d5a087887d0a49daa2.jpg",
+    "static/media/heroimg.jpg": "/react-gh-pages/static/media/heroimg.ae473759b39e85e6c6f6.jpg",
+    "static/media/logo1.jpg": "/react-gh-pages/static/media/logo1.4d6870cd0f76ce2d0484.jpg",
+    "static/media/logo2.jpg": "/react-gh-pages/static/media/logo2.f2fb22e1c5d141c69d52.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.9a704a95.css.map": "/react-gh-pages/static/css/main.9a704a95.css.map",
+    "main.fe9170ca.js.map": "/react-gh-pages/static/js/main.fe9170ca.js.map",
+    "787.ec704a7a.chunk.js.map": "/react-gh-pages/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a704a95.css",
+    "static/js/main.fe9170ca.js"
+  ]
+}
