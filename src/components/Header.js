@@ -1,12 +1,6 @@
 import { Link } from 'react-router-dom';
 import './header.css';
 function Header() {
-    const handleClickContact = () => {
-      window.scrollTo({
-        top: document.documentElement.scrollHeight,
-        behavior: "smooth",
-      });
-    };
   
     return (
       <header className="header">
@@ -32,6 +26,7 @@ function Header() {
         </ul>
       </header>
     );
-  }
+}
+  
   export default Header;
   

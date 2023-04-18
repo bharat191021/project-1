@@ -41,7 +41,7 @@ function Footer() {
     <li><a href="Protected" className="button-link">Protected</a></li>
     <li><a href="Licenses" className="button-link">Licenses</a></li>
     <li><a href="Changelog" className="button-link">Changelog</a></li>
-    <li><a href="#" className="button-link" onClick={() => alert('The page you requested was not found.')}>404</a></li>
+    <li><a href="Hero" className="button-link" onClick={() => alert('The page you requested was not found.')}>404</a></li>
   </ul>
 </div>
 

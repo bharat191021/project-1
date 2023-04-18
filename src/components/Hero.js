@@ -1,9 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import homep from '../images/homep.jpeg';
-import logo1 from '../images/logo1.jpg';
-import logo2 from '../images/logo2.jpg';
-import logo3 from '../images/logo3.jpg';
+
 import hero2 from '../images/hero2.jpg';
 import './hero.css'
 
