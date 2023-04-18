@@ -34,18 +34,17 @@ function Footer() {
 
           </div>
           <div className="col-md-4">
-            <h4>More Links</h4>
-            <ul className="list-unstyled">
-              <li><a href="Hero">Pages</a></li>
-              
-              <li><a href="Services">Style Guide</a></li>
-              <li><a href="Protected">Protected</a></li>
-              <li><a href="Licenses">Licenses</a></li>
-              <li><a href="Changelog">Changelog</a></li>
-              <li><a href="#" onClick={() => alert('The page you requested was not found.')}>404</a></li>
+  <h4>More Links</h4>
+  <ul className="list-unstyled">
+    <li><a href="Hero" className="button-link">Pages</a></li>
+    <li><a href="Services" className="button-link">Style Guide</a></li>
+    <li><a href="Protected" className="button-link">Protected</a></li>
+    <li><a href="Licenses" className="button-link">Licenses</a></li>
+    <li><a href="Changelog" className="button-link">Changelog</a></li>
+    <li><a href="#" className="button-link" onClick={() => alert('The page you requested was not found.')}>404</a></li>
+  </ul>
+</div>
 
-            </ul>
-          </div>
         </div>
         <div className="row">
           <div className="col-md-12">
