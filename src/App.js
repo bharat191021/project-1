@@ -19,8 +19,10 @@ import LogoRow from "./components/LogoRow";
 import RecentBlogs from './components/RecentBlogs';
 import ResidentialInteriorDesigner from './components/ResidentialInteriorDesigner';
 import BestWallArtDecor from './components/BestWallArtDecor';
-
+import Protected from './components/Protected'; 
 import IncreaseInteriorValue from './components/IncreaseInteriorValue';
+import Licenses from './components/Licenses';
+import Changelog from './components/Change';
 
 
 
@@ -48,6 +50,9 @@ function App() {
           <Route path="/lighting-design" element={<LightingDesign />} />
           <Route path="/space-planning" element={<SpacePlanning />} />
           <Route path="/recent-blogs" element={<RecentBlogs />} />
+          <Route path="/protected" element={<Protected/>} />
+          <Route path="/licenses" element={<Licenses/>} />
+          <Route path="/Changelog" element={<Changelog/>} />
 <Route path="/residential-interior-designer-new-york" element={<ResidentialInteriorDesigner />} />
 <Route path="/best-wall-art-decor" element={<BestWallArtDecor />} />
 <Route path="/increase-interior-value" element={<IncreaseInteriorValue />} />

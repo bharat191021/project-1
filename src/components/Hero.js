@@ -8,6 +8,8 @@ import hero2 from '../images/hero2.jpg';
 import './hero.css'
 
 function Hero() {
+  const handleClick = () => {
+    window.scrollTo(0, 0);}
   return (
     <section className="hero">
       <div className="hero-image">
@@ -17,6 +19,7 @@ function Hero() {
         <h1>Welcome to our Interior Design Studio</h1>
         <p>We create beautiful and functional spaces that reflect your unique style.</p>
         <h2>We Tackle The Most Challenging Designs</h2>
+        <Link to="Contact" className="btn" onClick={handleClick}>Get free estimate</Link>
         <div className="hero-container">
           
           <div className="text-container">

@@ -3,8 +3,9 @@ import { Link } from 'react-router-dom';
 import './services.css';
 
 function Services() {
-  return (
+  return ( 
     <section className="services">
+       
       <h2>Our Services</h2>
       <ul>
         <li><Link to="/interior-painting"><i className="fas fa-paint-roller"></i> Interior Painting</Link></li>

@@ -7,6 +7,8 @@ import portfolioimg4 from '../images/portfolioimg4.jpg';
 import "./portfolio.css";
 
 function Portfolio() {
+  const handleClick = () => {
+    window.scrollTo(0, 0);}
   return (
     <section className="portfolio">
       <h1>Recent Projects</h1>
